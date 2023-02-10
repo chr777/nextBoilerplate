@@ -19,11 +19,9 @@ This repository is 🔋 battery packed with:
 - 👷 Github Actions — Lint your code on PR
 - 🚘 Automatic Branch and Issue Autolink — Branch will be automatically created on issue **assign**, and auto linked on PR
 - 🔥 Snippets — A collection of useful snippets
-- 👀 Default Open Graph — Awesome open graph generated using [og](https://github.com/theodorusclarence/og), fork it and deploy!
+- 👀 Default Open Graph — Awesome open graph generated using, fork it and deploy!
 - 🗺 Site Map — Automatically generate sitemap.xml
 - 📦 Expansion Pack — Easily install common libraries, additional components, and configs
-
-See the 👉 [feature details and changelog](https://github.com/theodorusclarence/bpProject/blob/main/CHANGELOG.md) 👈 for more.
 
 ## Getting Started
 
@@ -37,21 +35,9 @@ See the 👉 [feature details and changelog](https://github.com/theodorusclarenc
 
    ![Use as template](https://user-images.githubusercontent.com/55318172/129183039-1a61e68d-dd90-4548-9489-7b3ccbb35810.png)
 
-2. Using `create-next-app`
+2. Deploy to Vercel
 
-   ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/bpProject project-name
-   ```
-
-3. Using `degit`
-
-   ```bash
-   npx degit theodorusclarence/bpProject BpProject
-   ```
-
-4. Deploy to Vercel
-
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2FbpProject)
+   [![Deploy with Vercel](https://vercel.com/button)]
 
 ### 2. Install dependencies
 
@@ -83,23 +69,10 @@ Don't forget to change the package name in package.json
 
 This starter is using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), it is mandatory to use it to commit changes.
 
-## Projects using bpProject
+## Projects using nextBoilerplate
 
 <!--
 TEMPLATE
 - [sitename](https://sitelink.com) ([Source](https://github.com/githublink))
 - [sitename](https://sitelink.com)
 -->
-
-- [theodorusclarence.com](https://theodorusclarence.com) ([Source](https://github.com/theodorusclarence/theodorusclarence.com))
-- [Notiolink](https://notiolink.thcl.dev/) ([Source](https://github.com/theodorusclarence/notiolink))
-
-## Expansion Pack 📦
-
-This project is now equipped with an [expansion pack](https://github.com/theodorusclarence/expansion-pack).
-
-You can easily add expansion such as React Hook Form + Components, Storybook, and more just using a single command line.
-
-https://user-images.githubusercontent.com/55318172/146631994-e1cac137-1664-4cfe-950b-a96decc1eaa6.mp4
-
-Check out the [expansion pack repository](https://github.com/theodorusclarence/expansion-pack) for the commands
